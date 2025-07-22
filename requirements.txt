@@ -1,0 +1,6 @@
+In your terminal, run (inside your virtual environment):
+    bash: pip freeze > requirements.txt
+
+
+Or just manually create requirements.txt with:
+    bash: requests
