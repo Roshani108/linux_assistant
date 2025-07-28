@@ -1,4 +1,4 @@
-# 🌟 Roshani Assist - Cross-Platform Linux CLI Tool
+# 🌟 Cross-Platform Linux CLI Tool
 
 A smart terminal-based assistant built in Python that helps users with:
 
